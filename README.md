@@ -9,3 +9,7 @@ feature 2 added // new feature
 
 
 work to stash
+
+
+
+commiting the feature 3 
